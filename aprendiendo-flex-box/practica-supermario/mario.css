@@ -1,8 +1,53 @@
 h1 {
   background: white;
-  background: linear-gradient(1deg, yellow, blue);
+  background: linear-gradient(90deg, yellow, blue, red, rgb(15, 240, 82));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-  font-size: 50px;
-  font-family: Helvetica;
+  font-size: 80px;
+  font-family: fantasy;
+  position: absolute;
+  top: 1px;
+  left: 420px;
+  z-index: 1;
+}
+
+.hongo {
+  width: 50px;
+  position: absolute;
+  top: 150px;
+  left: 815px;
+}
+
+.caixa-question {
+  position: absolute;
+  width: 80px;
+  top: 200px;
+  left: 800px;
+}
+
+.mario-bros {
+  width: 170px;
+  position: absolute;
+  top: 330px;
+  left: 200px;
+}
+
+.brick1,
+.brick2,
+.brick3 {
+  width: 500px;
+  position: absolute;
+  top: 500px;
+}
+
+.brick1 {
+  left: 0px;
+  z-index: 2;
+}
+.brick2 {
+  left: 400px;
+}
+
+.brick3 {
+  left: 850px;
 }
