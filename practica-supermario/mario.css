@@ -1,0 +1,8 @@
+h1 {
+  background: white;
+  background: linear-gradient(1deg, yellow, blue);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 50px;
+  font-family: monospace;
+}
