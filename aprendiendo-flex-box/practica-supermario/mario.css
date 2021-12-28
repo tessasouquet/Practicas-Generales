@@ -15,14 +15,14 @@ h1 {
   width: 50px;
   position: absolute;
   top: 150px;
-  left: 815px;
+  left: 265px;
 }
 
 .caixa-question {
   position: absolute;
   width: 80px;
   top: 200px;
-  left: 800px;
+  left: 250px;
 }
 
 .mario-bros {
@@ -30,6 +30,19 @@ h1 {
   position: absolute;
   top: 330px;
   left: 200px;
+}
+
+.planta {
+  width: 130px;
+  position: absolute;
+  top: 330px;
+  left: 700px;
+}
+
+.nuvem {
+  position: absolute;
+  width: 170px;
+  left: 1000px;
 }
 
 .brick1,
