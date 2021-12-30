@@ -1,0 +1,42 @@
+body {
+  background-color: seashell;
+}
+
+h1 {
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.192);
+  position: absolute;
+  color: rgb(95, 158, 160);
+  left: 800px;
+  top: 30px;
+}
+
+img {
+  position: absolute;
+  border-radius: 2em;
+  width: 550px;
+  top: 100px;
+  left: 90px;
+}
+
+.brownie {
+  position: absolute;
+  font-size: 25px;
+  font-style: italic;
+  color: gray;
+  text-align: justify;
+  width: 600px;
+  top: 140px;
+  left: 680px;
+  line-height: 40px;
+}
+.ingredientes {
+  position: absolute;
+  top: 450px;
+  left: 90px;
+  width: 1160px;
+  font-size: 20px;
+}
