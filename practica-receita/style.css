@@ -1,0 +1,64 @@
+body {
+  background-color: seashell;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+  position: absolute;
+  color: rgb(95, 158, 160);
+  left: 800px;
+  top: 65px;
+}
+
+img {
+  position: absolute;
+  border-radius: 2em;
+  width: 550px;
+  top: 100px;
+  left: 90px;
+}
+
+.brownie {
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  color: gray;
+  text-align: justify;
+  width: 600px;
+  top: 140px;
+  left: 680px;
+  line-height: 40px;
+}
+.ingredientes {
+  position: absolute;
+  top: 450px;
+  left: 90px;
+  width: 1000px;
+  font-size: 18px;
+}
+
+li:hover {
+  background-color: rgb(95, 158, 160);
+}
+
+li:active {
+  font-family: cursive;
+}
+
+h3:active {
+  background-color: rgb(88, 87, 87);
+  color: antiquewhite;
+}
+
+h3 {
+  position: absolute;
+  top: 1400px;
+  left: 430px;
+  background-color: rgb(95, 158, 160);
+  border-radius: 2em;
+  padding: 20px;
+}
